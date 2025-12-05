@@ -124,7 +124,7 @@ export function Dashboard() {
         <div className="container mx-auto px-4 py-4">
           <div className="flex justify-between items-center">
             <div>
-              <h1 className="text-2xl font-bold text-gray-900">TaskTraQ</h1>
+              <h1 className="text-2xl font-bold text-gray-900"DailyTracker</h1>
               <p className="text-sm text-gray-600">{user?.email}</p>
             </div>
             <div className="flex gap-3">
@@ -176,7 +176,7 @@ export function Dashboard() {
         {habits.length === 0 ? (
           <div className="bg-white rounded-lg shadow-md p-12 text-center">
             <h2 className="text-2xl font-bold text-gray-900 mb-4">
-              Welcome to TaskTraQ!
+              Welcome to DailyTracker!
             </h2>
             <p className="text-gray-600 mb-6">
               Start by adding your first habit to track.
