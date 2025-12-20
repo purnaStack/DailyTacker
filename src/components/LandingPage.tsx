@@ -7,7 +7,7 @@ export function LandingPage() {
       <div className="container mx-auto px-4 py-12">
         <div className="text-center mb-12">
           <h1 className="text-5xl md:text-6xl font-bold text-gray-900 mb-4">
-            TaskTraQ
+            Daliy Tracker
           </h1>
           <p className="text-xl md:text-2xl text-gray-700 font-light">
             Build Better Habits. Stay Consistent.
@@ -24,7 +24,7 @@ export function LandingPage() {
               Your life changes when your habits do
             </h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              TaskTraQ makes tracking them simple, minimal, and effortless.
+               Daliy Tracker makes tracking them simple, minimal, and effortless.
             </p>
           </div>
 
@@ -80,7 +80,7 @@ export function LandingPage() {
 
           <div className="mt-16 bg-white rounded-2xl shadow-xl p-8 md:p-12">
             <h2 className="text-3xl font-bold text-gray-900 mb-6 text-center">
-              Why TaskTraQ?
+              Why   Daliy Tracker?
             </h2>
             <div className="grid md:grid-cols-2 gap-8">
               <div>
@@ -108,7 +108,7 @@ export function LandingPage() {
               </div>
               <div>
                 <h3 className="text-xl font-semibold text-gray-900 mb-4">
-                  With TaskTraQ you get:
+                  With  Daliy Tracker you get:
                 </h3>
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start">
